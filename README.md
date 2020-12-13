@@ -1,2 +1,0 @@
-# improved-lamp
-hello-world 
